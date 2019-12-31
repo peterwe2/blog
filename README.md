@@ -1,0 +1,2 @@
+# blog
+/home/life/log
